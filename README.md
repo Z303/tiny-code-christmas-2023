@@ -5,4 +5,4 @@
 - [Day 0](https://tcc.lovebyte.party/day0/) - Setup
 - [Day 1 Extra](https://tcc.lovebyte.party/day1extra/) - Playing with Fire!
 
-        TIC-80: [192 bytes](./day01/tic-80-extra.md)
+    TIC-80: [192 bytes](./day01/tic-80-extra.md)
