@@ -9,3 +9,4 @@
 - [Day 2 Extra](https://tcc.lovebyte.party/day2extra/) - Enter the Metaverse!
 
     TIC-80: [252 bytes](./day02/tic-80-extra.md) and [an extended version](./day02/tic-80-extended.md).
+- [Day 3 Extra](https://tcc.lovebyte.party/day3extra/) - Connect the Dots!
