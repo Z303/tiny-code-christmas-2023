@@ -1,5 +1,5 @@
 # Day 2 Extended
-![A sprial overlayed with three metaball exposing a plama underneath](./day02extended.gif)
+![A spiral overlayed with three metaball exposing a plasma underneath](./day02extended.gif)
 
 Based on the [day 2](https://github.com/Z303/tiny-code-christmas-2023/blob/main/day02/tic-80-extra.md) extra dn [last years day 10](https://github.com/Z303/tiny-code-christmas-2022/blob/main/day10/tic-80.md)
 
