@@ -1,5 +1,5 @@
 # Day 3 Extra
-![Randomly moving balls that grow in size and become brighter as they get closer to each other. Line join the balls if they get close enough](./day03extra.gif)
+![Randomly moving balls that grow in size and become brighter as they get closer to each other. Lines join the balls if they get close enough](./day03extra.gif)
 
 ```
 m=math
