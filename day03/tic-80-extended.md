@@ -1,5 +1,5 @@
 # Day 3 Extended
-![Randomly moving pink balls that grow in size and become brighter as they get closer to each other. They trailing purple afterimages. Lines join the balls if they get close enough](./day03extra.gif)
+![Randomly moving pink balls that grow in size and become brighter as they get closer to each other. They trailing purple afterimages. Lines join the balls if they get close enough](./day03extended.gif)
 
 ```
 m=math
