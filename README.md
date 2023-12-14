@@ -5,10 +5,10 @@
 - [Day 0](https://tcc.lovebyte.party/day0/) - Setup
 - [Day 1 Extra](https://tcc.lovebyte.party/day1extra/) - Playing with Fire!
 
-    TIC-80: [192 bytes](./day01/tic-80-extra.md)
+    TIC-80: [192 bytes](./day01/tic-80-extra.md).
 - [Day 2 Extra](https://tcc.lovebyte.party/day2extra/) - Enter the Metaverse!
 
     TIC-80: [252 bytes](./day02/tic-80-extra.md) and [an extended version](./day02/tic-80-extended.md).
 - [Day 3 Extra](https://tcc.lovebyte.party/day3extra/) - Connect the Dots!
 
-    TIC-80: [400 bytes](./day03/tic-80-extra.md)
+    TIC-80: [400 bytes](./day03/tic-80-extra.md) and [an extended version](./day03/tic-80-extended.md).
