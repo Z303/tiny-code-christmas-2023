@@ -18,3 +18,6 @@
 - [Day 5 Extra](https://tcc.lovebyte.party/day5extra/) - Flyover
 
     TIC-80: [184 bytes](./day05/tic-80-extra.md) and [an extended version](./day05/tic-80-extended.md).
+- [Day 6 Extra](https://tcc.lovebyte.party/day5extra/) - Raster bars
+
+    TIC-80: [200 bytes](./day06/tic-80-extra.md)
