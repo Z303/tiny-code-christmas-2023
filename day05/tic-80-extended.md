@@ -1,6 +1,8 @@
 # Day 5 Extended
 ![A rotating cube of red spheres over a green ground plane fading out to the distance with a gradient blue sky](./day05extended.gif)
 
+Sphere cube nicked from [last years day 11](https://github.com/Z303/tiny-code-christmas-2022/blob/main/day11/tic-80.md) with some added [BDR action](https://skyelynwaddell.github.io/tic80-manual-cheatsheet/#_BDR).
+
 ```
 s=math.sin
 
