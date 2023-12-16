@@ -31,19 +31,12 @@ for i=1,n do
 end 
 
 function setColour(r,g,b,idx)
-	PALETTE_MAP = 0x3FC0
-	red=PALETTE_MAP+idx*3
+	red=0x3FC0+idx*3
 	green=red+1
 	blue=red+2
 	poke(red,r)
 	poke(green,g)
 	poke(blue,b)
-	
-	if idx == 14 then
-	 print(r,10,10,15)
-	 print(g,10,20,15)
-		print(b,10,30,15)
-	end
 end
 
 cls(0)

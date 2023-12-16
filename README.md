@@ -17,4 +17,4 @@
     TIC-80: [167 bytes](./day04/tic-80-extra.md)
 - [Day 5 Extra](https://tcc.lovebyte.party/day5extra/) - Flyover
 
-    TIC-80: [184 bytes](./day05/tic-80-extra.md)
+    TIC-80: [184 bytes](./day05/tic-80-extra.md) and [an extended version](./day05/tic-80-extended.md).
