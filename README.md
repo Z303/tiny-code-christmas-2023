@@ -21,3 +21,6 @@
 - [Day 6 Extra](https://tcc.lovebyte.party/day6extra/) - Raster bars
 
     TIC-80: [200 bytes](./day06/tic-80-extra.md)
+- [Day 7 Extra](https://tcc.lovebyte.party/day7extra/) - Snowflake
+
+    TIC-80: [109 bytes](./day07/tic-80-extra.md) and [an extended version](./day07/tic-80-extended.md).
