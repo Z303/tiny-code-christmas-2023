@@ -1,5 +1,5 @@
 # Day 8 Extra
-![Three crossing lines making a very simple snowflake](./day08extra.gif)
+![Coloured dots in a circle swirling around](./day08extra.gif)
 
 ```
 m=math
