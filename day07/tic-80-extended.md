@@ -1,5 +1,5 @@
 # Day 7 Extended
-![A white snowflake make from six diamonds on a light blue background](./day07extended.gif)
+![A white snowflake make from six diamonds on a light blue background spinning](./day07extended.gif)
 
 ```
 m=math
