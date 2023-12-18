@@ -24,3 +24,6 @@
 - [Day 7 Extra](https://tcc.lovebyte.party/day7extra/) - Snowflake
 
     TIC-80: [109 bytes](./day07/tic-80-extra.md) and [an extended version](./day07/tic-80-extended.md).
+- [Day 8 Extra](https://tcc.lovebyte.party/day8extra/) - Bubble Universe
+
+    TIC-80: [180 bytes](./day08/tic-80-extra.md)
