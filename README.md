@@ -29,4 +29,4 @@
     TIC-80: [180 bytes](./day08/tic-80-extra.md)
 - [Day 9 Extra](https://tcc.lovebyte.party/day9extra/) - 3D Dot Landscape
 
-    TIC-80: [180 bytes](./day09/tic-80-extra.md)
+    TIC-80: [169 bytes](./day09/tic-80-extra.md)
