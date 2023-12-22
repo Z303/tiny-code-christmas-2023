@@ -30,3 +30,6 @@
 - [Day 9 Extra](https://tcc.lovebyte.party/day9extra/) - [3D Dot Landscape](https://www.youtube.com/watch?v=YqtcC9NX6_o)
 
     TIC-80: [169 bytes](./day09/tic-80-extra.md)
+- [Day 10 Extra](https://tcc.lovebyte.party/day10extra/) - [3D Dot Landscape](https://www.youtube.com/watch?v=I993ILH_v0w)
+- [Day 11 Extra](https://tcc.lovebyte.party/day11extra/) - [3D Dot Landscape](https://www.youtube.com/watch?v=mrMktV-iscg)
+- [Day 12 Extra](https://tcc.lovebyte.party/day12extra/) - [3D Dot Landscape](https://www.youtube.com/watch?v=y3Azbzq0xXM)
