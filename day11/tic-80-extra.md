@@ -1,5 +1,5 @@
 # Day 11 Extra
-![Coloured dots forming a landacape](./day11extra.gif)
+![A torus made of greyspheres on a dark blue background with a green line moving around the torus](./day11extra.gif)
 
 ```
 M=math
