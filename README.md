@@ -32,4 +32,6 @@
     TIC-80: [169 bytes](./day09/tic-80-extra.md)
 - [Day 10 Extra](https://tcc.lovebyte.party/day10extra/) - [Let it Grow!](https://www.youtube.com/watch?v=I993ILH_v0w)
 - [Day 11 Extra](https://tcc.lovebyte.party/day11extra/) - [Do or Donut](https://www.youtube.com/watch?v=mrMktV-iscg)
+
+    TIC-80: [465 bytes](./day11/tic-80-extra.md)
 - [Day 12 Extra](https://tcc.lovebyte.party/day12extra/) - [Candy Cane](https://www.youtube.com/watch?v=y3Azbzq0xXM)
