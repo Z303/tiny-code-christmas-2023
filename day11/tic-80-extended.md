@@ -39,6 +39,31 @@ end
 swap(2,4)
 swap(9,11)
 
+sr=0x5d
+sg=0x27
+sb=0x5d
+
+er=0x5d
+eg=0x43
+eb=0x5d
+
+function setColour(r,g,b,idx)
+	red=0x3FC0+idx*3
+	green=red+1
+	blue=red+2
+	poke(red,r)
+	poke(green,g)
+	poke(blue,b)
+end
+
+function BDR(sl)
+  rows=135
+ 	cr=sr+((er-sr)/rows)*sl
+ 	cg=sg+((eg-sg)/rows)*sl
+ 	cb=sb+((eb-sb)/rows)*sl
+ 	setColour(cr,cg,cb,1)
+end
+
 function TIC()
  t=tstamp()
 	H=t//60//60%12*5
@@ -89,6 +114,12 @@ function TIC()
 			return a.z>b.z end)
 
  cls(1)
+
+ for p=1,#P do 				 		
+		circ(P[p].x*600/P[p].z+120,
+			     P[p].y*600/P[p].z+68,
+			     4,0)
+ end
 
  for p=1,#P do 				 		
 		for w=0,2 do 
