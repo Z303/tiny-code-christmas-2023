@@ -14,11 +14,6 @@ i=22
 k=60
 K=k*k
 
-h=10
-m=45
-s=30
-T=(h*k+m)*k+s
-
 function swap(lhs,rhs)
 	rl=0x3FC0+lhs*3
 	gl=rl+1
@@ -45,12 +40,10 @@ swap(2,4)
 swap(9,11)
 
 function TIC()
- t=T+time()/1000
- r=t%K
- 
-	H=F(t/K)%12
-	M=F(r/k)
-	S=F(r%k)
+ t=tstamp()
+	H=t//60//60%12*5
+	M=t//60%60
+	S=t%60
  
  P={}
  
